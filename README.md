@@ -43,7 +43,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/PLAPS-CPP.git
+git clone https://github.com/Maneet7805/PLAPS-CPP.git
 cd PLAPS-CPP
 ```
 
