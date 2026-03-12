@@ -1,4 +1,4 @@
-# PLAPS-CPP 📚
+# PLAPS-CPP 
 ## Programming Learning Analytics & Personalization System
 
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
@@ -8,11 +8,11 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 **PLAPS** is a comprehensive console-based prototype system developed for **Asia Pacific University (APU)** that simulates how students interact with programming activities and records their learning behaviour. The system helps track student progress, manage learning sessions, log recent activities, and identify learners who may need extra support.
 
-### 🎯 Key Features
+### Key Features
 - **Learner Registration & Session Management** - Queue-based waiting list and active session handling
 - **Activity Navigation & Session Flow** - Stack-based navigation history with undo functionality
 - **Recent Activity Logging** - Circular buffer for maintaining recent activity logs
@@ -20,7 +20,7 @@
 
 ---
 
-## 🏗️ Data Structures Used
+## Data Structures Used
 
 | Task | Data Structure | Implementation | Purpose |
 |------|---------------|----------------|---------|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - C++ compiler with C++11 support (g++, clang++, etc.)
