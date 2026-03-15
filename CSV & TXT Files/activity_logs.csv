@@ -1,0 +1,19 @@
+LearnerID,LearnerName,Topic,Difficulty,Score,Result,Timestamp
+1001,"Alice Johnson","Variables & Data Types",1,85,PASS,2026-03-14 06:35:33
+1001,"Alice Johnson","Control Flow (if/else)",1,92,PASS,2026-03-14 06:35:33
+1002,"Bob Smith","Variables & Data Types",1,35,FAIL,2026-03-14 06:35:33
+1002,"Bob Smith","Variables & Data Types",1,42,FAIL,2026-03-14 06:35:33
+1003,"Carol Davis","Variables & Data Types",1,98,PASS,2026-03-14 06:35:33
+1003,"Carol Davis","Control Flow (if/else)",1,95,PASS,2026-03-14 06:35:33
+1004,"David Wilson","Variables & Data Types",1,75,PASS,2026-03-14 06:35:33
+1004,"David Wilson","Control Flow (if/else)",1,82,PASS,2026-03-14 06:35:33
+1005,"Eva Brown","Variables & Data Types",1,95,PASS,2026-03-14 06:35:33
+1005,"Eva Brown","Control Flow (if/else)",1,93,PASS,2026-03-14 06:35:33
+1007,"Grace Lee","Variables & Data Types",1,30,FAIL,2026-03-14 06:35:33
+1007,"Grace Lee","Control Flow (if/else)",1,32,FAIL,2026-03-14 06:35:33
+1008,"Henry Taylor","Pointers & References",3,45,FAIL,2026-03-14 06:35:33
+1008,"Henry Taylor","Recursion",4,40,FAIL,2026-03-14 06:35:33
+1009,"Ivy Chen","Variables & Data Types",1,65,PASS,2026-03-14 06:35:33
+1009,"Ivy Chen","Loops (for/while)",2,75,PASS,2026-03-14 06:35:33
+1010,"Jack Wilson","Functions & Scope",2,76,PASS,2026-03-14 06:35:33
+1010,"Jack Wilson","Arrays & Strings",3,81,PASS,2026-03-14 06:35:33

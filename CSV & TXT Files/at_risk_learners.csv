@@ -1,0 +1,5 @@
+Rank,LearnerID,LearnerName,RiskLevel,RiskScore,AverageScore,FailedAttempts,TotalAttempts,Recommendation
+1,1007,"Grace Lee",Medium,49.75,35.50,6,8,"Review recent topics & attempt practice quiz"
+2,1002,"Bob Smith",Medium,43.00,45.00,7,10,"Review recent topics & attempt practice quiz"
+3,1008,"Henry Taylor",Medium,31.50,52.00,9,18,"Review recent topics & attempt practice quiz"
+4,1006,"Frank Miller",Medium,30.00,0.00,0,0,"New learner - needs to start with basic activities"
